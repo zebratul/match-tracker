@@ -9,8 +9,8 @@ const HeaderContainer = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 16px;
-  margin-top: 37px;
+  padding: 30px;
+  margin-top: 23px;
   background: #06080C;
   position: relative;
 `;
